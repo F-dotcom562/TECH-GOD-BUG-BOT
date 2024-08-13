@@ -10,15 +10,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
+global.ownernomer = "2349136594592"
+global.ownername = "Flashyboy"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '2349136594592'  //creator number
+global.ownername = 'Flashyboy'//owner name
+global.botname = 'Dark_sniper'//name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -29,7 +29,7 @@ global.themeemoji = '🪀'
 global.wm = "Youtube Tech God."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link `https://chat.whatsapp.com/G7cthgXoXbG0wHbowRekZA'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
